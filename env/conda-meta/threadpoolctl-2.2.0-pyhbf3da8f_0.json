@@ -1,0 +1,109 @@
+{
+  "build": "pyhbf3da8f_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\ABC\\miniconda3\\pkgs\\threadpoolctl-2.2.0-pyhbf3da8f_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/threadpoolctl-2.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/threadpoolctl-2.2.0.dist-info/LICENSE",
+    "Lib/site-packages/threadpoolctl-2.2.0.dist-info/METADATA",
+    "Lib/site-packages/threadpoolctl-2.2.0.dist-info/RECORD",
+    "Lib/site-packages/threadpoolctl-2.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/threadpoolctl-2.2.0.dist-info/WHEEL",
+    "Lib/site-packages/threadpoolctl-2.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/threadpoolctl.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/threadpoolctl.cpython-39.pyc"
+  ],
+  "fn": "threadpoolctl-2.2.0-pyhbf3da8f_0.conda",
+  "legacy_bz2_md5": "3310badf8678b0b6bb0de7a3f9770081",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\ABC\\miniconda3\\pkgs\\threadpoolctl-2.2.0-pyhbf3da8f_0",
+    "type": 1
+  },
+  "md5": "3267319deed46a46c7080e2a43038c07",
+  "name": "threadpoolctl",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\ABC\\miniconda3\\pkgs\\threadpoolctl-2.2.0-pyhbf3da8f_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/threadpoolctl-2.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/threadpoolctl-2.2.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "81ac619075248b06e53660b652d10e485f4675f5d0ae0f97ea22370da1f7e23b",
+        "sha256_in_prefix": "81ac619075248b06e53660b652d10e485f4675f5d0ae0f97ea22370da1f7e23b",
+        "size_in_bytes": 1507
+      },
+      {
+        "_path": "site-packages/threadpoolctl-2.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "149793898a545cfff6148dd5eb9a37e23b7185c087b9c9b580ff88f9c291d2f1",
+        "sha256_in_prefix": "149793898a545cfff6148dd5eb9a37e23b7185c087b9c9b580ff88f9c291d2f1",
+        "size_in_bytes": 6619
+      },
+      {
+        "_path": "site-packages/threadpoolctl-2.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "15b7323124851b39a00a32fa14b3858c0581e8d75cfd1704edec16853cdf8cd9",
+        "sha256_in_prefix": "15b7323124851b39a00a32fa14b3858c0581e8d75cfd1704edec16853cdf8cd9",
+        "size_in_bytes": 730
+      },
+      {
+        "_path": "site-packages/threadpoolctl-2.2.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/threadpoolctl-2.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a3e43613cb3b04a902275102dae41d6b2999555bb6694b757bcb934c5a731d5b",
+        "sha256_in_prefix": "a3e43613cb3b04a902275102dae41d6b2999555bb6694b757bcb934c5a731d5b",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "site-packages/threadpoolctl-2.2.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0fea90d44479cd5a55f39ecc5828d153b1d63c0632f6307c00119f9c4c955290",
+        "sha256_in_prefix": "0fea90d44479cd5a55f39ecc5828d153b1d63c0632f6307c00119f9c4c955290",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "site-packages/threadpoolctl.py",
+        "path_type": "hardlink",
+        "sha256": "a3bd8629e7300409b201ccd42d5ec4812ce1965f04b135169ac68e2de3260ebf",
+        "sha256_in_prefix": "a3bd8629e7300409b201ccd42d5ec4812ce1965f04b135169ac68e2de3260ebf",
+        "size_in_bytes": 31635
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/threadpoolctl.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "af289e71a13d95e3bfa15e4b0691054ed0f1538ea12fdddebee51fbcf7bb4a3c",
+  "size": 16648,
+  "subdir": "noarch",
+  "timestamp": 1628668783536,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/threadpoolctl-2.2.0-pyhbf3da8f_0.conda",
+  "version": "2.2.0"
+}
